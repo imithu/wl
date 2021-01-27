@@ -1,0 +1,17 @@
+{
+    "name": "imithu/wl",
+    "authors": [
+        {
+            "name": "imithu",
+            "email": "imithu@imithu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WL\\": [
+                "WL"
+            ]
+        }
+    }
+}
